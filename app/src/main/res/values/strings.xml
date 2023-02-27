@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sonic Share</string>
+    <string name="first_slide">Бүтээгдэхүүний төрлөө сонгож захиалж болно</string>
+    <string name="second_slides">Хурдан хүргэлт</string>
+    <string name="third_slides">Баталгаатай үйлчэлгээ</string>
+    <string name="description1">Олон төрлийн бараа бүтээгдэхүүний сонголт.</string>
+    <string name="description2">Хамгийн хурдан шуурхай хүргэлт.</string>
+    <string name="description3">Баталгаат чанартай бараа бүтээгдэхүүн.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
